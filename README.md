@@ -25,3 +25,27 @@ Tools ....... Git · GitHub
 Education ... BS Information Technology (Programming)
 
 Status ...... Graduate, eager to gain more learnings
+# ── About Me ──────────────────────────────────────────────
+
+[user]
+name          = "Rondether Gonzales"
+role          = "Junior Front-End Developer"
+location      = "Mandaue City, Philippines 🇵🇭"
+education     = "BS in Information Technology"
+
+[user.interests]
+code          = [ "Front-End Development", "Web Apps", "UI/UX Design" ]
+hobbies       = [ "Mobile Games", "Continuous Learning" ]
+philosophy    = "Every expert was once a beginner."
+
+systemctl status rondether@dev.service
+
+● rondether@dev.service - Front-End Developer Daemon
+     Loaded: loaded (/etc/systemd/user/rondether.service; enabled)
+     Active: active (running) ████████████████████
+
+     🔭 Working On   → E-commerce admin portals & local business websites (Fonus Cebu)
+     🌱 Learning     → Advanced Front-End techniques to expand my stack
+     👯 Open To      → Junior Front-End roles & collaborations
+     💬 Ask Me About → HTML, CSS, JavaScript, and web design basics
+     🎮 Fun Fact     → I unwind by dominating in mobile games
