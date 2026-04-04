@@ -42,7 +42,7 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
 - **Expertise:** JavaScript (ES6+), CSS3 (Flexbox/Grid), and React.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doy679&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=89B4FA&langs_count=6" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doy679&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=89B4FA&langs_count=6&cache_seconds=1800" alt="Top Languages" height="170px" />
 </div>
 
 ---
