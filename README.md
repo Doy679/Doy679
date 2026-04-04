@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=89B4FA&center=true&vCenter=true&width=500&lines=Hi,+I'm+Rondether+Gonzales;Idea+Builder;Front-End+Engineer+%26+Learner;Crafting+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=89B4FA&center=true&vCenter=true&width=500&lines=Hi,+I'm+Rondether+Gonzales;Front-End+Engineer+%26+Learner;Crafting+Digital+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -74,8 +74,8 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doy679&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=89B4FA&icon_color=CBA6F7&include_all_commits=true&count_private=true" alt="Stats Card" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doy679&theme=catppuccin_mocha&hide_border=true&stroke=89B4FA&ring=CBA6F7&fire=F38BA8&sideNums=FAB387" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Doy679&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=89B4FA&icon_color=CBA6F7&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats Card" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doy679&theme=catppuccin_mocha&hide_border=true&stroke=89B4FA&ring=CBA6F7&fire=F38BA8&sideNums=FAB387&cache_seconds=1800" alt="GitHub Streak" height="180px" />
 </div>
 
 ---
