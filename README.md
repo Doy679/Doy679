@@ -37,7 +37,7 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
 
 ### 🏆 Legacy Highlights
 *Highlights from my previous engineering journey:*
-- **158+** Total Commits in Front-End development.
+- **228+** Total Commits in Front-End development.
 - **7+** Projects ranging from local business sites to E-commerce portals.
 - **Expertise:** JavaScript (ES6+), CSS3 (Flexbox/Grid), and React.
 
