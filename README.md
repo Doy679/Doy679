@@ -78,10 +78,6 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doy679&theme=catppuccin_mocha&hide_border=true&stroke=89B4FA&ring=CBA6F7&fire=F38BA8&sideNums=FAB387" alt="GitHub Streak" height="180px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doy679&theme=react-dark&area=true&hide_border=true&bg_color=1e1e2e&color=89b4fa&line=89b4fa&point=cba6f7" alt="Activity Graph" width="100%" />
-</div>
-
 ---
 
 ### 📫 Connect with Me
