@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 <div align="center">
-  <img src="./computer-help.gif" alt="Computer Help GIF" width="400" />
+  <img src="./computer-help.gif" alt="Computer Help GIF" width="400" loading="lazy" />
 </div>
 
 I'm a **Self-Taught** developer and **BS Information Technology** graduate based in **Mandaue City, Philippines** 🇵🇭. I specialize in building polished, user-friendly web interfaces and am constantly exploring new technologies to refine my craft.
@@ -66,7 +66,7 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Codigo Apparel** | E-commerce web application for apparel. | `Next.js` `TS` | [Repo](https://github.com/Doy679/CodigoApparel) |
+| **Codigo Apparel** | E-commerce web application for apparel. | `Next.js` `TS` | [Repo](https://github.com/Doy679/CodigoApparel) [Live](https://decodetheculture.vercel.app/) |
 | **Brisasolei Resort** | Modern resort booking platform. | `Next.js` `Tailwind` | [Live](https://rgonzales.netlify.app/) |
 | **Fonus Cebu** | Admin dashboard for cooperatives. | `JS` `Bootstrap` | [Live](https://fc2025.netlify.app/admin) |
 | **SHS Grading** | Academic student record management. | `Angular` `Node` | [Live](https://rgonzales.netlify.app/) |
@@ -92,14 +92,14 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:gonzalesrondether86@gmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="./kisuke.gif" alt="Kisuke Urahara GIF" width="300" />
+  <img src="./kisuke.gif" alt="Kisuke Urahara GIF" width="300" loading="lazy" />
   <p><i>"Every expert was once a beginner."</i></p>
   <a href="https://github.com/Doy679">
     <img src="https://img.shields.io/badge/-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
