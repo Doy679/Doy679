@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Doy679&label=Profile%20Views&color=89B4FA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Doy679?label=Followers&style=for-the-badge&color=89B4FA" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=89B4FA&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDoy679&style=for-the-badge" alt="Following" />
 </div>
 
 <div align="center">
@@ -66,6 +68,7 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Speedtest Wifi** | Real-time internet speed testing tool. | `Next.js` `Tailwind` | [Live](https://speedtestwifi.vercel.app/) |
 | **Codigo Apparel** | E-commerce web application for apparel. | `Next.js` `TS` | [Repo](https://github.com/Doy679/CodigoApparel) [Live](https://decodetheculture.vercel.app/) |
 | **Brisasolei Resort** | Modern resort booking platform. | `Next.js` `Tailwind` | [Live](https://brisasolei.netlify.app/) |
 | **Fonus Cebu** | Admin dashboard for cooperatives. | `JS` `Bootstrap` | [Live](https://fc2025.netlify.app/admin) |
