@@ -69,7 +69,7 @@ I'm a **Self-Taught** developer and **BS Information Technology** graduate based
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Speedtest Wifi** | Real-time internet speed testing tool. | `Next.js` `Tailwind` | [Live](https://speedtestwifi.vercel.app/) |
-| **Codigo Apparel** | E-commerce web application for apparel. | `Next.js` `TS` | [Repo](https://github.com/Doy679/CodigoApparel) [Live](https://decodetheculture.vercel.app/) |
+| **Codigo Apparel** | E-commerce web application for apparel. | `Next.js` `TS` | [Live](https://decodetheculture.vercel.app/) |
 | **Brisasolei Resort** | Modern resort booking platform. | `Next.js` `Tailwind` | [Live](https://brisasolei.netlify.app/) |
 | **Fonus Cebu** | Admin dashboard for cooperatives. | `JS` `Bootstrap` | [Live](https://fc2025.netlify.app/admin) |
 | **SHS Grading** | Academic student record management. | `Angular` `Node` | [Live](https://rgonzales.netlify.app/) |
