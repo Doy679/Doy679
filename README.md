@@ -34,3 +34,14 @@
 > *This is a new GitHub account. My previous account reflected significant project experience and over 200+ commits. I'm currently rebuilding my portfolio here.*
 
 ---
+
+### 📅 Agile Development Roadmap (Sprint 2024-Q1)
+*Tracking my continuous learning and professional growth.*
+
+| 🔴 Backlog | 🟡 In-Progress | 🟢 Done |
+| :--- | :--- | :--- |
+| Unit Testing (Jest/Vitest) | Advanced React Patterns | BS IT Graduation |
+| Backend Integration (Node.js) | UI/UX Principles (Figma) | Core JS Proficiency |
+| Mobile Dev (Flutter) | Porting Legacy Projects | Next.js Fundamentals |
+
+---
