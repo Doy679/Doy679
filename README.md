@@ -53,3 +53,11 @@
 </div>
 
 ---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,nodejs,git,vscode,figma,postman,npm&theme=dark" />
+</div>
+
+---
