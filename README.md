@@ -14,13 +14,6 @@
 
 ---
 
-### 📈 Activity & Statistics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doy679&theme=react-dark&area=true&hide_border=true&color=89B4FA&line=CBA6F7&point=F38BA8" width="100%" />
-</div>
-
----
-
 ### 🚀 About Me
 <div align="center">
   <img src="./computer-help.gif" alt="Computer Help GIF" width="400" loading="lazy" />
@@ -43,14 +36,6 @@
 | Unit Testing (Jest/Vitest) | Advanced React Patterns | BS IT Graduation |
 | Backend Integration (Node.js) | UI/UX Principles (Figma) | Core JS Proficiency |
 | Mobile Dev (Flutter) | Porting Legacy Projects | Next.js Fundamentals |
-
----
-
-### 🏆 Legacy Highlights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doy679&layout=compact&theme=radical&hide_border=true&title_color=F38BA8&langs_count=6&cache_seconds=1800" alt="Top Languages" height="170px" />
-</div>
 
 ---
 
@@ -78,9 +63,19 @@
 
 ---
 
+<h2 align="center">◈ SYSTEM ANALYTICS</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doy679&show_icons=true&theme=radical&hide_border=true&title_color=F38BA8&icon_color=CBA6F7&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats Card" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doy679&theme=radical&hide_border=true&stroke=89B4FA&ring=CBA6F7&fire=F38BA8&sideNums=FAB387&cache_seconds=1800" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Doy679&show_icons=true&theme=radical&hide_border=true&title_color=F38BA8&icon_color=CBA6F7&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats Card" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doy679&layout=compact&theme=radical&hide_border=true&title_color=F38BA8&langs_count=6&cache_seconds=1800" alt="Top Languages" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doy679&theme=radical&hide_border=true&stroke=89B4FA&ring=CBA6F7&fire=F38BA8&sideNums=FAB387&cache_seconds=1800" alt="GitHub Streak" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doy679&theme=react-dark&area=true&hide_border=true&color=89B4FA&line=CBA6F7&point=F38BA8" width="100%" />
 </div>
 
 ---
