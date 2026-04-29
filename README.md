@@ -13,3 +13,10 @@
 </div>
 
 ---
+
+### 📈 Activity & Statistics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doy679&theme=react-dark&area=true&hide_border=true&color=89B4FA&line=CBA6F7&point=F38BA8" width="100%" />
+</div>
+
+---
