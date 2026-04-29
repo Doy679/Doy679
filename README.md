@@ -45,3 +45,11 @@
 | Mobile Dev (Flutter) | Porting Legacy Projects | Next.js Fundamentals |
 
 ---
+
+### 🏆 Legacy Highlights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doy679&layout=compact&theme=radical&hide_border=true&title_color=F38BA8&langs_count=6&cache_seconds=1800" alt="Top Languages" height="170px" />
+</div>
+
+---
