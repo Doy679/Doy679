@@ -20,3 +20,17 @@
 </div>
 
 ---
+
+### 🚀 About Me
+<div align="center">
+  <img src="./computer-help.gif" alt="Computer Help GIF" width="400" loading="lazy" />
+</div>
+
+✨ I'm a **Self-Taught** developer and **BS Information Technology** graduate based in **Mandaue City, Philippines** 🇵🇭. I specialize in building polished, user-friendly web interfaces and am constantly exploring new technologies to refine my craft.
+
+🌈 **Fun Fact:** I love crafting digital solutions that are not only functional but also visually stunning.
+
+> [!NOTE]
+> *This is a new GitHub account. My previous account reflected significant project experience and over 200+ commits. I'm currently rebuilding my portfolio here.*
+
+---
