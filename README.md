@@ -12,6 +12,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Doy679&theme=outrun&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</div>
+
 ---
 
 ### 🚀 About Me
